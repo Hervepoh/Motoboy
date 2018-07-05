@@ -1,0 +1,15 @@
+Environnement de developpement 
+
+Motoboy est une app web de mise en realition grande échelle permettant 
+ d'informatiser le workflow du metier d'hotelier
+HTML  v5
+CSS   v3
+Js    vECMA6
+MYSQL v5.7.22
+linux ubuntu 16.04 
+eclipseOxygene_APTANA 
+fontAwesome 
+googleFont
+MATERIAL DESIGN
+
+
