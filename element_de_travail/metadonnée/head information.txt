@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html>
+<html lang="fr" xmlns:og="http://ogp.me/ns#">
+<head>
+	<!--title of the page -->
+	<title>Motoboy_accueil</title>
+
+    	<!-- meta sur la page et outil de SEO -->
+
+		<!-- commun meta -->
+    	<meta charset="utf-8" />
+    	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+      
+		<!-- info meta -->
+    	<meta name="author" content="Herve epoh">
+    	<meta name="keywords" content="séjour, voyage, vacances, loisir , détente ,forfaits touristiques, organisation, hôtel, hôtels, motel, chambres d&#39;hôtes, auberge, gîte,  location de vacances, guide de voyage, avis, opinion, populaire, prévision, tarif de vol, bon marché, promo, carte, cartes, golf, ski, articles, activités, conseils, restaurants"
+    />
+    	<meta name="description" content="Motoboy  est le point de départ du voyage inoubliables destination: le Cameroun. Partez pour de nouvelles aventures près de chez vous ou à l&#x27;autre bout du monde et profitez de logements, d&#x27;expériences et de lieux uniques ; Préparez Votre Voyage et Economisez sur Les Prix.">
+   	<meta name="generator" content="HTML5 CSS3 JS PHP MYSQL Bootstrap JQUERY lARAVEL" />
+	<meta name="copyright" content="ONearth.org" />
+
+    	<meta property="fb:app_id" content="">
+
+    		<!-- OpenGraph Meta Tags -->
+    	<meta property="og:site_name" content="MotoBoy">
+    	<meta property="og:title" content="Locations de vacances, logements, expériences et lieux - Motoboy">
+    	<meta property="og:description" content="Motoboy  est le point de départ du voyage inoubliables destination: le Cameroun. Partez pour de nouvelles aventures près de chez vous ou à l&#x27;autre bout du monde et profitez de logements, d&#x27;expériences et de lieux uniques tout autour du globe.">
+    	<meta property="og:type" content="Website">
+    	<meta property="og:url" content="https://www.motoboy.com/">
+    	<meta property="og:image" content="https://a0.muscache.com/airbnb/static/logos/trips-og-1280x630-9de9c338cc3fd9b5663fb80be0cbe8c2.jpg">
+   	 <meta property="og:video" content="https://a0.muscache.com/airbnb/static/logos/trips-og-1280x630-9de9c338cc3fd9b5663fb80be0cbe8c2.jpg">
+    	<meta property="og:locale" content="fr_FR">
+    	<meta property="og:locale:alternate" content="en_US" />
+    	<meta name="og:email" content="me@example.com" />
+    	<meta name="og:phone_number" content="650-123-4567" />
+	
+	<!-- OpenGraph Meta geographicPosition -->
+    	<meta name="og:latitude" content="37.416343" />
+    	<meta name="og:longitude" content="-122.153013" />
+    	<meta name="og:street-address" content="1601 S California Ave" />
+   	<meta name="og:locality" content="Palo Alto" />
+    	<meta name="og:region" content="CA" />
+    	<meta name="og:postal-code" content="94304" />
+    	<meta name="og:country-name" content="USA" />
+
+    	<!-- end OpenGraph Meta Tags -->
+
+   	<!-- HTML Link Tags -->
+    	<link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+    	<link rel="fluid-icon" type="image/png" href="/fluid-icon.png" />
+
+    	<!------------------------------ librairie CSS only ------------------------------>
+ 	   <link rel="stylesheet" href="css/bootstrap-reboot.css">
+    <link rel="stylesheet" href="css/bootstrap.css">  		
+
+    	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+        crossorigin="anonymous">
+    	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
+        crossorigin="anonymous">
+	<link rel='stylesheet' href='css/rotating-card.css'/>
+    	<link href="https://vjs.zencdn.net/7.0.3/video-js.css" rel="stylesheet">
+    		<!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
+    	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    
+		<!-- mes feuilles de syles CSS  -->
+	<link rel="stylesheet" href="css/main.css" media="all" title="le style de base">
+    	<link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+
+    	<!------------------------------ end librairie CSS only ------------------------------>
+   
+
+		
+		
+<!-- les librairie CSS -->
+
+	
+	</head>
+<body>
+
+
+
+
+     <!----------------------------librairie ----------------------------------->
+
+	<!-- librairie base-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+
+	<!-- librairie JS scrollreveal.js video.js run_prettify.js popper.js-->
+    <script src="js/scrollreveal.min.js"></script>
+    <script src="https://vjs.zencdn.net/7.0.3/video.js"></script>
+    <script src="http://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js"></script>
+    <script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+	
+   	 <!-- mes scripts js  -->
+    <script src="assets/main.js"></script>   
+
+     <!----------------------------end librairie js ------------------------------>
+</body>
+</html>
